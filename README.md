@@ -1,6 +1,6 @@
 # NBA Draft Prediction
 
-This project aims to predict whether a college basketball player will be drafted into the NBA based on their season statistics.
+This project aims to predict whether a college basketball player will be drafted into the NBA based on their season statistics. It utilizes advanced machine learning algorithms to analyze college player statistics and predict their likelihood of being drafted into the NBA.
 
 ## Table of Contents
 
